@@ -1,8 +1,8 @@
-name: microservicebus-node
+name: msbreltest
 version: '1.16'
-summary: microServiceBus - IoT Device Management
+summary: TESTING
 description: |
-  microServiceBus.com ® enables businesses to combine the power of Enterprise Application Integration (EAI) with agility and reach of Internet of Things (IoT). https://microservicebus.com/
+  mSB TEST.
 grade: stable
 confinement: strict
 
